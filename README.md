@@ -44,16 +44,19 @@
 - Adaptable to different screen sizes
 - Product cards and popup adjust to screen width
 
+##Desktop View
 ![Screenshot 2024-12-03 114154](https://github.com/user-attachments/assets/b37aaa9e-9f19-409d-8c15-e43c4e5fad61)
 
+##MoreInfo View
 ![Screenshot 2024-12-03 114223](https://github.com/user-attachments/assets/dfa6b772-c093-4451-825d-21d29c975d50)
 
+##Mobile view
 ![Screenshot 2024-12-03 114324](https://github.com/user-attachments/assets/82277c44-381a-4a26-b2d1-9233e5a1da3b)
 
 
 
 
-
+##[Demo Project]( https://kosarakbarshah.github.io/RandomStoreAPI/)
 ##💡[Demo Project]( https://kosarakbarshah.github.io/RandomStoreAPI/)
 
 ##💗Developed by Kosar Akbarshah
